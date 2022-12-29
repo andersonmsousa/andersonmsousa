@@ -1,5 +1,4 @@
 <h3>Olá, eu sou o Anderson!</h3>
-<p>Sou tecnólogo em Gastronomia, estagiei e trabalhei em algumas cozinhas, e no momento estou em processo de transição para a área de Desenvolvimento Web através do XP41 da Gama Academy. 
 
 ##
   
